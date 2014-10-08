@@ -7,7 +7,7 @@ public class OperacionesGeometricas {
 	public static void main(String[] args) {
 		System.out.print("\Buenos dias");	
 				
-		String opcion		
+				
 		Scanner sc = new Scanner(System.in);
 		System.out.print("\nElige una opcion: Circulo o Rectangulo");
 		opcion = sc.nextInt();		
